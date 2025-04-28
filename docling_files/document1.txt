@@ -1,0 +1,544 @@
+# knowledge_base.txt
+
+### Relatório de Inventário - Restaurante Sabor Divino - Atualizado em 2025-04-26
+
+Este documento detalha os níveis de estoque atuais para vários itens no Restaurante Sabor Divino. As verificações foram realizadas ao longo do dia 26 de Abril de 2025 por diferentes membros da equipe de cozinha e gestão. O objetivo é manter um controle rigoroso para evitar falta de produtos e otimizar as compras. A localização indica onde o item é primariamente armazenado. O ponto de reposição é uma sugestão para iniciar o processo de compra.
+
+---
+
+### Categoria: Vegetais e Frutas Frescas (Geladeira Principal / Câmara Fria 1)
+
+* Item: Tomate Italiano
+    Quantidade: 18.5 kg
+    Unidade: kg
+    Local: Geladeira Principal Gaveta 1
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Hortifruti Sol Nascente
+    Ponto Reposição: 10 kg
+
+* Item: Cebola Pera
+    Quantidade: 25 kg
+    Unidade: kg
+    Local: Armazenamento Seco Prateleira B
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Hortifruti Sol Nascente
+    Ponto Reposição: 15 kg
+
+* Item: Batata Inglesa (Lavada)
+    Quantidade: 45 kg
+    Unidade: kg
+    Local: Armazenamento Seco Prateleira C
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Distribuidora Raiz Forte
+    Ponto Reposição: 20 kg
+
+* Item: Alface Crespa
+    Quantidade: 12 unidades
+    Unidade: maços grandes
+    Local: Câmara Fria 1 Prateleira A
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Fazenda Verde Vida
+    Ponto Reposição: 8 unidades
+
+* Item: Limão Tahiti
+    Quantidade: 8 kg
+    Unidade: kg
+    Local: Geladeira Principal Gaveta 2
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Hortifruti Sol Nascente
+    Ponto Reposição: 5 kg
+
+* Item: Pimentão Verde
+    Quantidade: 5 kg
+    Unidade: kg
+    Local: Geladeira Principal Gaveta 1
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Hortifruti Sol Nascente
+    Ponto Reposição: 3 kg
+
+* Item: Cenoura
+    Quantidade: 14 kg
+    Unidade: kg
+    Local: Geladeira Principal Gaveta 2
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Distribuidora Raiz Forte
+    Ponto Reposição: 7 kg
+
+* Item: Abacaxi Pérola
+    Quantidade: 9 unidades
+    Unidade: unidades
+    Local: Bancada de Preparo Frutas
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Fazenda Doce Fruto
+    Ponto Reposição: 5 unidades
+
+* Item: Manjericão Fresco
+    Quantidade: 3 maços
+    Unidade: maços
+    Local: Câmara Fria 1 Prateleira A (vaso)
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Fazenda Verde Vida
+    Ponto Reposição: 2 maços
+
+* Item: Alho Descascado
+    Quantidade: 2.5 kg
+    Unidade: kg (em pote)
+    Local: Geladeira Principal Prateleira 3
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Alho Real Processadora
+    Ponto Reposição: 1.5 kg
+
+---
+
+### Categoria: Carnes e Aves (Congelador / Câmara Fria 2)
+
+* Item: Filé Mignon Bovino (peça limpa)
+    Quantidade: 12.2 kg
+    Unidade: kg
+    Local: Congelador Vertical 1 Gaveta A
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Frigorífico Boi Nobre
+    Ponto Reposição: 8 kg
+
+* Item: Peito de Frango (sem osso, sem pele)
+    Quantidade: 35 kg
+    Unidade: kg
+    Local: Câmara Fria 2 Prateleira B
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Avícola Penas Douradas
+    Ponto Reposição: 20 kg
+
+* Item: Linguiça Toscana Fresca
+    Quantidade: 9 kg
+    Unidade: kg
+    Local: Geladeira de Carnes (próx. Chapa)
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Charcutaria Artesanal Mestre Toni
+    Ponto Reposição: 5 kg
+
+* Item: Bacon em Fatias (Pacote 1kg)
+    Quantidade: 8 pacotes
+    Unidade: pacotes
+    Local: Congelador Vertical 1 Gaveta B
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Frigorífico Fagulha
+    Ponto Reposição: 5 pacotes
+
+* Item: Camarão Médio Limpo (Congelado)
+    Quantidade: 6.5 kg
+    Unidade: kg (em pacotes de 1kg)
+    Local: Congelador Horizontal
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Pescados Mar Azul
+    Ponto Reposição: 4 kg
+
+* Item: Salmão Fresco (Filé com pele)
+    Quantidade: 4.8 kg
+    Unidade: kg
+    Local: Geladeira de Peixes (Câmara Fria 2)
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Pescados Mar Azul
+    Ponto Reposição: 3 kg (pedido diário)
+
+* Item: Carne Moída Patinho (Congelada)
+    Quantidade: 15 kg
+    Unidade: kg (em pacotes de 1kg)
+    Local: Congelador Vertical 1 Gaveta C
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Frigorífico Boi Nobre
+    Ponto Reposição: 10 kg
+
+---
+
+### Categoria: Laticínios e Ovos (Geladeira Principal / Câmara Fria 1)
+
+* Item: Queijo Mussarela Fatiado
+    Quantidade: 7 kg
+    Unidade: kg (peça)
+    Local: Câmara Fria 1 Prateleira C
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Laticínios Vila Boa
+    Ponto Reposição: 4 kg
+
+* Item: Queijo Parmesão Ralado (Pacote 1kg)
+    Quantidade: 5 pacotes
+    Unidade: pacotes
+    Local: Geladeira Principal Prateleira 2
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Laticínios Montanha
+    Ponto Reposição: 3 pacotes
+
+* Item: Leite Integral UHT
+    Quantidade: 24 litros
+    Unidade: litros (caixas de 1L)
+    Local: Armazenamento Seco Prateleira A
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Laticínios Vila Boa
+    Ponto Reposição: 12 litros
+
+* Item: Creme de Leite UHT (Caixa 200g)
+    Quantidade: 40 caixas
+    Unidade: caixas
+    Local: Armazenamento Seco Prateleira A
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Laticínios Vila Boa
+    Ponto Reposição: 20 caixas
+
+* Item: Manteiga com Sal (Tablete 200g)
+    Quantidade: 15 tabletes
+    Unidade: tabletes
+    Local: Geladeira Principal Prateleira 1
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Laticínios Montanha
+    Ponto Reposição: 10 tabletes
+
+* Item: Ovos Brancos Tipo Extra
+    Quantidade: 10 dúzias
+    Unidade: dúzias (cartelas de 30)
+    Local: Geladeira Principal Prateleira 4
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Granja Ovo Feliz
+    Ponto Reposição: 5 dúzias
+
+* Item: Requeijão Cremoso (Pote 1kg)
+    Quantidade: 3 potes
+    Unidade: potes
+    Local: Geladeira Principal Prateleira 1
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Laticínios Vila Boa
+    Ponto Reposição: 2 potes
+
+---
+
+### Categoria: Mercearia Seca e Conservas (Armazenamento Seco)
+
+* Item: Arroz Branco Tipo 1 (Pacote 5kg)
+    Quantidade: 6 pacotes
+    Unidade: pacotes
+    Local: Armazenamento Seco Prateleira D
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Cerealista Grão Fino
+    Ponto Reposição: 4 pacotes
+
+* Item: Feijão Carioca Tipo 1 (Pacote 1kg)
+    Quantidade: 15 pacotes
+    Unidade: pacotes
+    Local: Armazenamento Seco Prateleira D
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Cerealista Grão Fino
+    Ponto Reposição: 8 pacotes
+
+* Item: Farinha de Trigo Tipo 1 (Pacote 1kg)
+    Quantidade: 18 pacotes
+    Unidade: pacotes
+    Local: Armazenamento Seco Prateleira E
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Moagem Trigo Dourado
+    Ponto Reposição: 10 pacotes
+
+* Item: Açúcar Refinado (Pacote 1kg)
+    Quantidade: 22 pacotes
+    Unidade: pacotes
+    Local: Armazenamento Seco Prateleira E
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Usina Doce Cana
+    Ponto Reposição: 10 pacotes
+
+* Item: Sal Refinado (Pacote 1kg)
+    Quantidade: 8 pacotes
+    Unidade: pacotes
+    Local: Armazenamento Seco Prateleira F
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Salineira Cristal Marinho
+    Ponto Reposição: 5 pacotes
+
+* Item: Óleo de Soja (Garrafa 900ml)
+    Quantidade: 30 garrafas
+    Unidade: garrafas
+    Local: Armazenamento Seco Prateleira F
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Óleos Vegetais Sabor Leve
+    Ponto Reposição: 15 garrafas
+
+* Item: Azeite Extra Virgem (Garrafa 500ml)
+    Quantidade: 10 garrafas
+    Unidade: garrafas
+    Local: Armazenamento Seco Prateleira G (Especialidades)
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Importadora Oliva Premium
+    Ponto Reposição: 5 garrafas
+
+* Item: Vinagre de Álcool (Garrafa 750ml)
+    Quantidade: 7 garrafas
+    Unidade: garrafas
+    Local: Armazenamento Seco Prateleira F
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Vinagres Castelo Real
+    Ponto Reposição: 4 garrafas
+
+* Item: Tomate Pelado em Lata (Lata 400g)
+    Quantidade: 25 latas
+    Unidade: latas
+    Local: Armazenamento Seco Prateleira H
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Conservas Pomodoro Bella
+    Ponto Reposição: 15 latas
+
+* Item: Milho Verde em Conserva (Lata 200g)
+    Quantidade: 18 latas
+    Unidade: latas
+    Local: Armazenamento Seco Prateleira H
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Conservas Campo Verde
+    Ponto Reposição: 10 latas
+
+* Item: Ervilha em Conserva (Lata 200g)
+    Quantidade: 16 latas
+    Unidade: latas
+    Local: Armazenamento Seco Prateleira H
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Conservas Campo Verde
+    Ponto Reposição: 10 latas
+
+* Item: Macarrão Espaguete Grano Duro (Pacote 500g)
+    Quantidade: 30 pacotes
+    Unidade: pacotes
+    Local: Armazenamento Seco Prateleira I
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Massas Pastificio Roma
+    Ponto Reposição: 15 pacotes
+
+* Item: Macarrão Penne Grano Duro (Pacote 500g)
+    Quantidade: 25 pacotes
+    Unidade: pacotes
+    Local: Armazenamento Seco Prateleira I
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Massas Pastificio Roma
+    Ponto Reposição: 15 pacotes
+
+---
+
+### Categoria: Especiarias e Condimentos (Armazenamento Seco / Cozinha Quente)
+
+* Item: Pimenta do Reino Moída (Pote 100g)
+    Quantidade: 4 potes
+    Unidade: potes
+    Local: Cozinha Quente - Prateleira de Temperos
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Especiarias Mundo Afora
+    Ponto Reposição: 2 potes
+
+* Item: Orégano Desidratado (Pote 50g)
+    Quantidade: 6 potes
+    Unidade: potes
+    Local: Cozinha Quente - Prateleira de Temperos
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Especiarias Mundo Afora
+    Ponto Reposição: 3 potes
+
+* Item: Páprica Doce (Pote 100g)
+    Quantidade: 3 potes
+    Unidade: potes
+    Local: Cozinha Quente - Prateleira de Temperos
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Especiarias Mundo Afora
+    Ponto Reposição: 2 potes
+
+* Item: Cominho em Pó (Pote 100g)
+    Quantidade: 3 potes
+    Unidade: potes
+    Local: Cozinha Quente - Prateleira de Temperos
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Especiarias Mundo Afora
+    Ponto Reposição: 2 potes
+
+* Item: Folha de Louro (Pacote 30g)
+    Quantidade: 5 pacotes
+    Unidade: pacotes
+    Local: Armazenamento Seco Prateleira G
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Especiarias Mundo Afora
+    Ponto Reposição: 3 pacotes
+
+* Item: Mostarda Amarela (Bisnaga 200g)
+    Quantidade: 8 bisnagas
+    Unidade: bisnagas
+    Local: Geladeira Principal Prateleira 2
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Condimentos Sabor Real
+    Ponto Reposição: 4 bisnagas
+
+* Item: Ketchup Tradicional (Bisnaga 350g)
+    Quantidade: 12 bisnagas
+    Unidade: bisnagas
+    Local: Armazenamento Seco Prateleira G
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Condimentos Sabor Real
+    Ponto Reposição: 6 bisnagas
+
+---
+
+### Categoria: Bebidas (Geladeira de Bebidas / Estoque Bar)
+
+* Item: Refrigerante Cola (Lata 350ml)
+    Quantidade: 72 latas (3 fardos)
+    Unidade: latas
+    Local: Geladeira de Bebidas 1
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Distribuidora de Bebidas Refrescar
+    Ponto Reposição: 48 latas
+
+* Item: Refrigerante Guaraná (Lata 350ml)
+    Quantidade: 60 latas (2.5 fardos)
+    Unidade: latas
+    Local: Geladeira de Bebidas 1
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Distribuidora de Bebidas Refrescar
+    Ponto Reposição: 48 latas
+
+* Item: Água Mineral sem Gás (Garrafa 500ml)
+    Quantidade: 96 garrafas (4 caixas)
+    Unidade: garrafas
+    Local: Geladeira de Bebidas 2
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Fonte Cristalina Águas
+    Ponto Reposição: 48 garrafas
+
+* Item: Água Mineral com Gás (Garrafa 500ml)
+    Quantidade: 48 garrafas (2 caixas)
+    Unidade: garrafas
+    Local: Geladeira de Bebidas 2
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Fonte Cristalina Águas
+    Ponto Reposição: 24 garrafas
+
+* Item: Suco de Laranja Integral (Caixa 1L)
+    Quantidade: 18 caixas
+    Unidade: caixas
+    Local: Geladeira de Bebidas 1
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Sucos Fruta Pura
+    Ponto Reposição: 10 caixas
+
+* Item: Cerveja Pilsen Long Neck (Garrafa 330ml)
+    Quantidade: 84 garrafas (3.5 caixas)
+    Unidade: garrafas
+    Local: Geladeira de Cervejas (Bar)
+    Verificado: 2025-04-26 (Noite)
+    Fornecedor: Cervejaria Mestre Lupulo
+    Ponto Reposição: 48 garrafas
+
+* Item: Vinho Tinto Cabernet Sauvignon (Garrafa 750ml) - Casa Silva
+    Quantidade: 15 garrafas
+    Unidade: garrafas
+    Local: Adega Climatizada (Bar)
+    Verificado: 2025-04-26 (Noite)
+    Fornecedor: Importadora Vinhos do Mundo
+    Ponto Reposição: 8 garrafas
+
+* Item: Vinho Branco Sauvignon Blanc (Garrafa 750ml) - Santa Helena
+    Quantidade: 12 garrafas
+    Unidade: garrafas
+    Local: Adega Climatizada (Bar)
+    Verificado: 2025-04-26 (Noite)
+    Fornecedor: Importadora Vinhos do Mundo
+    Ponto Reposição: 6 garrafas
+
+---
+
+### Categoria: Descartáveis e Embalagens (Estoque Descartáveis)
+
+* Item: Guardanapo de Papel (Pacote 500un)
+    Quantidade: 10 pacotes
+    Unidade: pacotes
+    Local: Estoque Descartáveis Prateleira 1
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Embalagens Práticas Ltda
+    Ponto Reposição: 5 pacotes
+
+* Item: Copo Descartável Plástico 200ml (Pacote 100un)
+    Quantidade: 15 pacotes
+    Unidade: pacotes
+    Local: Estoque Descartáveis Prateleira 1
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Embalagens Práticas Ltda
+    Ponto Reposição: 8 pacotes
+
+* Item: Embalagem para Viagem Alumínio M (Pacote 100un)
+    Quantidade: 3 pacotes
+    Unidade: pacotes
+    Local: Estoque Descartáveis Prateleira 2
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Embalagens Forte Alumínio
+    Ponto Reposição: 2 pacotes
+
+* Item: Embalagem para Viagem Isopor Hambúrguer (Pacote 100un)
+    Quantidade: 4 pacotes
+    Unidade: pacotes
+    Local: Estoque Descartáveis Prateleira 2
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: IsoMax Embalagens Térmicas
+    Ponto Reposição: 2 pacotes
+
+* Item: Talher Descartável (Kit Garfo+Faca - Pacote 50 kits)
+    Quantidade: 8 pacotes
+    Unidade: pacotes
+    Local: Estoque Descartáveis Prateleira 1
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Embalagens Práticas Ltda
+    Ponto Reposição: 4 pacotes
+
+* Item: Canudo Embalado Individualmente (Caixa 1000un)
+    Quantidade: 2 caixas
+    Unidade: caixas
+    Local: Balcão Bar / Estoque Descartáveis
+    Verificado: 2025-04-26 (Tarde)
+    Fornecedor: Embalagens Práticas Ltda
+    Ponto Reposição: 1 caixa
+
+---
+
+### Categoria: Produtos de Limpeza (Depósito de Limpeza)
+
+* Item: Detergente Neutro (Galão 5L)
+    Quantidade: 4 galões
+    Unidade: galões
+    Local: Depósito Limpeza Prateleira A
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Limpa Tudo Químicos
+    Ponto Reposição: 2 galões
+
+* Item: Desinfetante Herbal (Galão 5L)
+    Quantidade: 3 galões
+    Unidade: galões
+    Local: Depósito Limpeza Prateleira A
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Limpa Tudo Químicos
+    Ponto Reposição: 2 galões
+
+* Item: Álcool 70% Líquido (Garrafa 1L)
+    Quantidade: 10 garrafas
+    Unidade: garrafas
+    Local: Depósito Limpeza Prateleira B / Pontos de Uso
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Limpa Tudo Químicos
+    Ponto Reposição: 5 garrafas
+
+* Item: Papel Toalha Interfolhado (Fardo 1000 folhas)
+    Quantidade: 8 fardos
+    Unidade: fardos
+    Local: Depósito Limpeza Prateleira C
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Papéis Higiênicos Suave Folha
+    Ponto Reposição: 4 fardos
+
+* Item: Saco de Lixo Reforçado 100L (Pacote 100un)
+    Quantidade: 5 pacotes
+    Unidade: pacotes
+    Local: Depósito Limpeza Prateleira C
+    Verificado: 2025-04-26 (Manhã)
+    Fornecedor: Embalagens Práticas Ltda
+    Ponto Reposição: 3 pacotes
+
+---
+Fim do Relatório de Inventário de 2025-04-26. Próxima verificação completa agendada para 2025-05-03. Verificações pontuais ocorrem diariamente.

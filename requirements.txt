@@ -1,0 +1,10 @@
+Flask
+python-dotenv
+supabase
+openai
+langchain
+langchain-community
+langchain-openai
+tiktoken
+requests
+python-dotenv

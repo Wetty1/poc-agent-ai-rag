@@ -5,15 +5,15 @@ Recebe mensagens no WhatsApp, busca respostas em documentos com embeddings no Su
 
 # ⚙️ Stack do Projeto
 
-### 🦜 LangChain (RAG / LLM)
+- 🦜 LangChain (RAG / LLM)
 
-### 🦑 Supabase (PostgreSQL + Vetores + Armazenamento)
+- 🦑 Supabase (PostgreSQL + Vetores + Armazenamento)
 
-### 📞 Twilio (API WhatsApp)
+- 📞 Twilio (API WhatsApp)
 
-### 🌍 Flask (Webhook API)
+- 🌍 Flask (Webhook API)
 
-### 💬 LangGraph (orquestração de fluxo de conversa)
+- 💬 LangGraph (orquestração de fluxo de conversa)
 
 ## 📂 Arquitetura
 

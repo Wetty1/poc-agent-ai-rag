@@ -8,3 +8,4 @@ langchain-openai
 tiktoken
 requests
 python-dotenv
+langgraph

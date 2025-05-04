@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify
-from supabase_client import save_message, search_similar_documents
+from supabase_client import save_message
 import os
 import requests
-from rag_agent import generate_answer_with_rag
+from rag_agent_graph import graph, GraphState
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -16,15 +16,17 @@ TWILIO_WHATSAPP_NUMBER = os.getenv("TWILIO_WHATSAPP_NUMBER")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Função para responder mensagem no WhatsApp via Twilio API
+
+
 def send_whatsapp_message(to_number: str, message: str):
     url = f"https://api.twilio.com/2010-04-01/Accounts/{TWILIO_ACCOUNT_SID}/Messages.json"
-    
+
     payload = {
         'From': f'whatsapp:{TWILIO_WHATSAPP_NUMBER}',
         'To': f'whatsapp:{to_number}',
         'Body': message
     }
-    
+
     response = requests.post(
         url,
         data=payload,
@@ -33,6 +35,8 @@ def send_whatsapp_message(to_number: str, message: str):
     return response
 
 # Rota para receber mensagens do Twilio
+
+
 @app.route('/webhook', methods=['POST'])
 def webhook():
     # Pega os dados que o Twilio envia
@@ -44,13 +48,17 @@ def webhook():
     # Salvar no banco
     save_message(from_number, body)
 
+    # Buscar resposta com LangGraph
+    result = graph.invoke(GraphState(user_question=body))
+    print(result)
+    response_message = result['response']
 
-    # Buscar resposta inteligente
-    response_message = generate_answer_with_rag(body)
     # Enviar resposta pelo WhatsApp
-    send_whatsapp_message(from_number.replace('whatsapp:', ''), response_message)
+    send_whatsapp_message(from_number.replace(
+        'whatsapp:', ''), response_message)
 
     return jsonify({"status": "success"}), 200
+
 
 if __name__ == '__main__':
     app.run(port=5000)
